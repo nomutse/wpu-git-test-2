@@ -1,3 +1,3 @@
 <script>
-    console.log(berapa hasilnya ?);
+    console.log('lima tambah enam berapa ya hasilnya');
 </script>
